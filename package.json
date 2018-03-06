@@ -1,0 +1,27 @@
+{
+  "name": "bot_telega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot2.py",
+  "scripts": {
+    "test": "python bot2.py"
+  },
+  "enginse":{
+   "python":"3.6.4"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordon173/bot2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nordon173/bot2/issues"
+  },
+  "homepage": "https://github.com/nordon173/bot2#readme",
+  "dependencies": {
+    "node-telebot": "0.0.6",
+    "node-telegram-bot-api": "^0.30.0",
+    "telebot": "^1.2.3"
+  }
+}
